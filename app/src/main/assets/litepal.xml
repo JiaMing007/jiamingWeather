@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="jiaming_weather"/>
+    <version value="2" />
+    <list>
+        <mapping class="com.itxiaoming.jiamingweather.db.Province"/>
+        <mapping class="com.itxiaoming.jiamingweather.db.City"/>
+        <mapping class="com.itxiaoming.jiamingweather.db.Country"/>
+    </list>
+</litepal>
